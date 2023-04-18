@@ -12,5 +12,5 @@ Krav
 Begränsningar av krav
 * Programmet kan med fördel göras som Command Line Interface, men det är inte ett krav
 * Alla klienter körs från samma dator
-* Vi är inte intresserade av ett snyggt GUI. Lägg inte tid på det
-* Du behöver inte överdriva felhanteringen. Du kan utgå från att vi använder programmet som det är tänkt
+* Det behövs inget snyggt GUI. Lägg inte tid på det
+* Det behövs ingen överdriven felhanteringen. Utgå från att programmet används som det är tänkt
